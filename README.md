@@ -7,11 +7,22 @@ Everything you need to build a Svelte project, powered by [`create-svelte`](http
 If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
 # create a new project in my-app
 npm create svelte@latest my-app
+cd my-app
+npm install
+```
+
+Install all necessary dependencies
+
+```bash
+# install tailwindcss
+npx svelte-add@latest tailwindcss
+# if previous command outputs error related to .npm-global install tailwindcss globally first
+npm install -g tailwindcss
+npm i
+# instal Flowbite, Flowbite-Svelte, and other dependencies
+npm i -D flowbite flowbite-svelte classnames @popperjs/core
 ```
 
 ## Developing
