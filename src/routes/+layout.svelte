@@ -57,7 +57,7 @@
 	<NavHamburger on:click={toggleDrawer} btnClass="ml-3" />
 	<NavBrand href="/" class="lg:ml-64">
 		<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white pl-4">
-			Computer Engineering-Mobile Computing | Cloud Computing
+			PFCouto
 		</span>
 	</NavBrand>
 	<NavUl {hidden} {divClass} {ulClass} class="items-center">
