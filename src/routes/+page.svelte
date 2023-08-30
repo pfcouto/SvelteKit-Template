@@ -15,7 +15,7 @@
 						alt="Linux logo"
 						style="margin-right: 8px;"
 					/>
-					<span>user.</span>
+					<P>user.</P>
 				</div>
 				<div class="mt-10">
 					<img src="/images/pedro.png" alt="Pedro Couto" />
