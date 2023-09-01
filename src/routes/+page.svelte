@@ -4,10 +4,11 @@
 
 <div class="p-8">
 	<div class="flex justify-center">
-		<div class="w-1/5">
-			<div class="flex flex-col">
-				<P>Hello! I'm Pedro Couto, a 22 years.</P>
-				<P>MSc student and Researcher in Computer Engineering @Polytechnic of Leiria.</P>
+		<div class="w-80">
+			<div class="flex flex-col justify-center">
+				<P>Hello! My name is Pedro Couto, I'm 22 years old.</P>
+				<P>Currently a MSc student and Researcher in Computer Engineering @Polytechnic of Leiria.</P
+				>
 				<div class="inline">
 					<img
 						src="/images/linux-logo.png"
